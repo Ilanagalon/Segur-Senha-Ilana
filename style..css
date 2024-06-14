@@ -50,4 +50,14 @@ body{
     font-family: var(--roboto-mono);
 }
 
+#campo-seha:focus{
+  outline: none;
+}
 
+.conteudo{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+].parametro{
+    background-color: ;
+}
