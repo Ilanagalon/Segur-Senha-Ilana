@@ -60,4 +60,6 @@ body{
 }
 ].parametro{
     background: color 2px;
+    border: 2px  solid var(--borda);
+    margin: 32px;
 }
