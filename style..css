@@ -48,6 +48,7 @@ body{
     color: var(--branco);
     font-size: 40px;
     font-family: var(--roboto-mono);
+    width: 70%;
 }
 
 #campo-seha:focus{
@@ -58,8 +59,19 @@ body{
     max-width: 1200px;
     margin: 0 auto;
 }
-].parametro{
-    background: color 2px;
-    border: 2px  solid var(--borda);
+
+.parametro{
+    background-color: var(--fundo-texto) ;
+    border: 2px solid var(--borda);
     margin: 32px;
+    padding: 24px;
+}
+
+.parametro-titulo{
+font-family: var(--roboto-mono);
+font-size: 28px;
+}
+
+.parametro-senha__titulo{
+    font-size: 24px;
 }
